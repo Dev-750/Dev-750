@@ -1,11 +1,9 @@
 <h1 align="center">Hi 👋, I'm Dev-750</h1>  
 <h3 align="center">A Passionate Engineer and Developer</h3>  
   
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=dev-750&label=Profile%20views&color=0e75b6&style=flat" alt="dev-750" /> </p>  
-  
-<!--<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dev-750" alt="dev-750" /></a> </p>
--->
-  
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=dev-750&label=Profile%20views&color=0e75b6&style=flat" alt="dev-750" /> </p>  
+
+### About Me:
 - 🔭 I’m currently working on **Universal Robot Applications**  
   
 - 🌱 I’m currently learning **ROS and RosPy**  
@@ -26,7 +24,7 @@
 
   <!--Pandas--> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a>
 
-  <!--CTk--> <a href="https://customtkinter.tomschimansky.com/" target="_blank" rel="noreferrer"> <img src="https://th.bing.com/th/id/OIP.MxeP27JwuBSirCI-pjsoowAAAA?w=163&h=180&c=7&r=0&o=5&pid=1.7" alt="ctk" width="40" height="40"/> </a>
+  <!--CTk--> <a href="https://customtkinter.tomschimansky.com/" target="_blank" rel="noreferrer"> <img src="https://th.bing.com/th/id/OIP.MxeP27JwuBSirCI-pjsoowAAAA?w=163&h=180&c=7&r=0&o=5&pid=1.7" alt="ctk" height="40"/> </a>
 
   <!--Bash--> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a>
 
@@ -41,6 +39,8 @@
   <!--HTML5--> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
 
   <!--CSS 3--> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
+
+  <!--MarkDown--> <a href="https://www.markdownguide.org/" target="_blank" rel="noreferrer"> <img src="https://www.markdownguide.org/assets/images/markdown-mark.svg" alt="markdown" width="40" height="40"/> </a>
   
   <!--Arduino--> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> 
   
@@ -65,5 +65,8 @@
 
 <hr>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dev-750&show_icons=true&locale=en&layout=compact" alt="dev-750" /></p>  
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dev-750&show_icons=true&locale=en&layout=compact" alt="dev-750"/></p>  
 <p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=dev-750&show_icons=true&locale=en" alt="dev-750" /></p>
+
+<!--<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dev-750" alt="dev-750" /></a> </p>
+-->
