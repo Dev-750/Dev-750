@@ -6,9 +6,7 @@
 ### About Me:
 - 🔭 I’m currently working on **Universal Robot Applications**  
   
-- 🌱 I’m currently learning **ROS and RosPy**  
-  
-- ⚡ Fun fact **I'm an Eagle Scout**  
+- 🌱 I’m currently learning **ROS and RosPy**   
   
 <!--<h3 align="left">Connect with me:</h3>  
 <p align="left">  
