@@ -14,6 +14,8 @@
   
 <h3 align="left">Languages and Tools:</h3>  
 <p align="left"> 
+  ![JavaScript](https://cdn.jsdelivr.net/gh/simple-icons/simple-icons@latest/icons/javascript.svg)
+
   <!--C--> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
 
   <!--C++--> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> 
