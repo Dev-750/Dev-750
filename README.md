@@ -41,9 +41,4 @@
             <!--SQLAlchemy--> <a href="https://www.sqlalchemy.org/" target="_blank" rel="noreferrer" style="text-decoration: none;"><img class="icon" src="/icons/sqlalchemy.svg" alt="sqlalchemy" style="width:32px;height:32px;padding:8px;border-radius:8px;"/></a>
             <!--CTk--> <a href="https://customtkinter.tomschimansky.com/" target="_blank" rel="noreferrer" style="text-decoration: none;"><img class="icon" src="https://customtkinter.tomschimansky.com/img/icon.ico" alt="ctk" style="width:32px;height:32px;padding:8px;border-radius:8px;"/></a>
         </div>
-    <hr>
-    </section>
-    <section class="stats" align="center" style="padding: 10px;align-self: center;align-items: center;display: flex;flex-direction: column;justify-content: space-around;align-items: center;">
-            <img src="https://github-readme-stats.vercel.app/api/top-langs?username=dev-750&show_icons=true&locale=en&layout=compact" alt="dev-750"/>
-            <img src="https://github-readme-stats.vercel.app/api?username=dev-750&show_icons=true&locale=en" alt="dev-750" />
     </section>
